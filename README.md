@@ -9,7 +9,7 @@
 
 **A production-ready frontend for tracking and optimizing brand visibility across AI-first search platforms**
 
-[Live Demo](#) • [Documentation](#documentation) • [Architecture](ARCHITECTURE.md) • [Deployment](#deployment)
+[Live Demo](https://kasparro-frontend-harish-thakur.vercel.app) • [Documentation](#documentation) • [Architecture](ARCHITECTURE.md) • [Deployment](#deployment)
 
 </div>
 
@@ -539,9 +539,9 @@ Built with:
 
 ## 📞 Contact & Links
 
-- **GitHub**: [Repository Link](#)
-- **Live Demo**: [Vercel Deployment](#)
-- **Documentation**: See `/docs` folder
+- **GitHub**: https://github.com/hcthakur2004/kasparro-frontend-harish-thakur
+- **Live Demo**: https://kasparro-frontend-harish-thakur.vercel.app
+- **Author**: Harish Thakur
 
 ---
 
@@ -549,6 +549,6 @@ Built with:
 
 **Built for the AI-first search era** 🚀
 
-Made with 💜 by [Your Name]
+Made with 💜 by Harish Thakur
 
 </div>
