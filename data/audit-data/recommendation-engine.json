@@ -1,0 +1,77 @@
+{
+    "moduleId": "recommendation-engine",
+    "moduleName": "Recommendation Engine",
+    "description": "Get AI-powered optimization recommendations",
+    "score": 82.4,
+    "lastUpdated": "2024-12-20T10:30:00Z",
+    "insights": [
+        {
+            "id": "re-1",
+            "title": "High-impact opportunities identified",
+            "description": "15 quick-win optimizations with estimated 40% visibility boost",
+            "impact": "high",
+            "category": "Opportunities"
+        },
+        {
+            "id": "re-2",
+            "title": "Strong implementation readiness",
+            "description": "Your technical infrastructure supports 89% of recommended optimizations",
+            "impact": "medium",
+            "category": "Readiness"
+        }
+    ],
+    "issues": [
+        {
+            "id": "re-i1",
+            "title": "Low recommendation implementation rate",
+            "description": "Only 31% of previous recommendations have been implemented",
+            "severity": "medium",
+            "affectedArea": "Execution"
+        },
+        {
+            "id": "re-i2",
+            "title": "Missing tracking for implemented changes",
+            "description": "Unable to measure impact of 68% of implemented recommendations",
+            "severity": "low",
+            "affectedArea": "Measurement"
+        }
+    ],
+    "recommendations": [
+        {
+            "id": "re-r1",
+            "title": "Prioritize author attribution implementation",
+            "description": "Highest ROI recommendation from E-E-A-T analysis",
+            "priority": "high",
+            "estimatedImpact": "+18 points overall score",
+            "actionItems": [
+                "Review E-E-A-T module recommendations",
+                "Allocate development resources",
+                "Set 30-day implementation deadline"
+            ]
+        },
+        {
+            "id": "re-r2",
+            "title": "Optimize for Perplexity citations",
+            "description": "Fastest-growing AI search platform with high conversion potential",
+            "priority": "high",
+            "estimatedImpact": "+40% Perplexity visibility",
+            "actionItems": [
+                "Increase publishing frequency",
+                "Add citation metadata",
+                "Build authoritative backlinks"
+            ]
+        },
+        {
+            "id": "re-r3",
+            "title": "Develop FAQ content strategy",
+            "description": "Capture conversational query traffic",
+            "priority": "medium",
+            "estimatedImpact": "+35% question-query coverage",
+            "actionItems": [
+                "Research common questions",
+                "Create FAQ pages",
+                "Implement FAQ schema"
+            ]
+        }
+    ]
+}

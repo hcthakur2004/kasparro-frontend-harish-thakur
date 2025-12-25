@@ -1,0 +1,54 @@
+{
+    "moduleId": "competitor-analysis",
+    "moduleName": "Competitor Analysis",
+    "description": "Compare your AI visibility against competitors",
+    "score": 71.8,
+    "lastUpdated": "2024-12-20T10:30:00Z",
+    "insights": [
+        {
+            "id": "comp-1",
+            "title": "Leading in technical queries",
+            "description": "23% higher visibility than closest competitor in technical AI queries",
+            "impact": "high",
+            "category": "Advantage"
+        },
+        {
+            "id": "comp-2",
+            "title": "Lagging in brand awareness queries",
+            "description": "Competitors appear 2.3x more often in general awareness queries",
+            "impact": "high",
+            "category": "Gap"
+        }
+    ],
+    "issues": [
+        {
+            "id": "comp-i1",
+            "title": "Competitor content volume advantage",
+            "description": "Top 3 competitors publish 4x more content monthly",
+            "severity": "high",
+            "affectedArea": "Content Volume"
+        },
+        {
+            "id": "comp-i2",
+            "title": "Lower social media presence",
+            "description": "45% fewer social mentions than industry average",
+            "severity": "medium",
+            "affectedArea": "Social Signals"
+        }
+    ],
+    "recommendations": [
+        {
+            "id": "comp-r1",
+            "title": "Increase content publishing frequency",
+            "description": "Scale to 20+ articles per month to match competitor volume",
+            "priority": "high",
+            "estimatedImpact": "+30% overall visibility",
+            "actionItems": [
+                "Hire additional content writers",
+                "Implement content calendar",
+                "Develop content templates",
+                "Leverage AI writing tools"
+            ]
+        }
+    ]
+}

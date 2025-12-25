@@ -1,0 +1,54 @@
+{
+    "moduleId": "keyword-coverage",
+    "moduleName": "Keyword Coverage",
+    "description": "Analyze non-branded keyword presence in AI search results and conversational queries",
+    "score": 58.7,
+    "lastUpdated": "2024-12-20T10:30:00Z",
+    "insights": [
+        {
+            "id": "kc-insight-1",
+            "title": "Strong coverage in core product keywords",
+            "description": "Appearing in 71% of queries related to 'AI automation tools' and 'machine learning platforms'",
+            "impact": "high",
+            "category": "Performance"
+        },
+        {
+            "id": "kc-insight-2",
+            "title": "Missing from adjacent category queries",
+            "description": "Low visibility (18%) in related categories like 'data analytics' and 'business intelligence'",
+            "impact": "medium",
+            "category": "Gap"
+        }
+    ],
+    "issues": [
+        {
+            "id": "kc-issue-1",
+            "title": "Weak long-tail keyword coverage",
+            "description": "Only 22% presence in specific, intent-driven queries despite high search volume",
+            "severity": "high",
+            "affectedArea": "Long-tail Keywords"
+        },
+        {
+            "id": "kc-issue-2",
+            "title": "Missing from question-based queries",
+            "description": "Low visibility in 'how to' and 'what is' queries that drive AI assistant responses",
+            "severity": "medium",
+            "affectedArea": "Conversational Queries"
+        }
+    ],
+    "recommendations": [
+        {
+            "id": "kc-rec-1",
+            "title": "Develop comprehensive FAQ content",
+            "description": "Create detailed Q&A content targeting conversational queries",
+            "priority": "high",
+            "estimatedImpact": "+35% question-query visibility",
+            "actionItems": [
+                "Identify top 100 question-based queries in your niche",
+                "Create dedicated FAQ pages with detailed answers",
+                "Implement FAQ schema markup",
+                "Optimize for voice search patterns"
+            ]
+        }
+    ]
+}

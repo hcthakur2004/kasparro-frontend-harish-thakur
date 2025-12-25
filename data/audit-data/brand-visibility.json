@@ -1,0 +1,94 @@
+{
+    "moduleId": "brand-visibility",
+    "moduleName": "Brand Visibility",
+    "description": "Track how often your brand appears in AI-generated responses across major AI search platforms",
+    "score": 72.5,
+    "lastUpdated": "2024-12-20T10:30:00Z",
+    "insights": [
+        {
+            "id": "bv-insight-1",
+            "title": "Strong presence in technical queries",
+            "description": "Your brand appears in 68% of AI responses for technical AI-related queries, significantly above industry average of 42%",
+            "impact": "high",
+            "category": "Performance"
+        },
+        {
+            "id": "bv-insight-2",
+            "title": "Growing mention frequency",
+            "description": "Brand mentions increased by 23% over the past 30 days across ChatGPT, Gemini, and Perplexity",
+            "impact": "high",
+            "category": "Trend"
+        },
+        {
+            "id": "bv-insight-3",
+            "title": "Weak presence in comparison queries",
+            "description": "Only 31% visibility in 'best AI tools' and comparison-type queries",
+            "impact": "medium",
+            "category": "Gap"
+        }
+    ],
+    "issues": [
+        {
+            "id": "bv-issue-1",
+            "title": "Inconsistent brand name usage",
+            "description": "AI models use 3 different variations of your brand name (TechVision, TechVision AI, Tech Vision), causing fragmented visibility",
+            "severity": "high",
+            "affectedArea": "Brand Recognition"
+        },
+        {
+            "id": "bv-issue-2",
+            "title": "Missing from Perplexity results",
+            "description": "Brand appears in only 12% of relevant Perplexity queries compared to 78% in ChatGPT",
+            "severity": "medium",
+            "affectedArea": "Platform Coverage"
+        },
+        {
+            "id": "bv-issue-3",
+            "title": "Low visibility in mobile AI assistants",
+            "description": "Brand mentions in Siri and Google Assistant are 64% lower than desktop AI platforms",
+            "severity": "medium",
+            "affectedArea": "Mobile Presence"
+        }
+    ],
+    "recommendations": [
+        {
+            "id": "bv-rec-1",
+            "title": "Standardize brand name across all digital properties",
+            "description": "Ensure consistent use of 'TechVision AI' across website, documentation, and social media to help AI models learn the correct brand name",
+            "priority": "high",
+            "estimatedImpact": "+15-20% brand recognition accuracy",
+            "actionItems": [
+                "Audit all web properties for brand name consistency",
+                "Update meta tags and structured data with canonical brand name",
+                "Create brand guidelines document for content creators",
+                "Implement automated checks in CMS for brand name usage"
+            ]
+        },
+        {
+            "id": "bv-rec-2",
+            "title": "Optimize for Perplexity's citation model",
+            "description": "Perplexity heavily weights recent, authoritative sources. Increase publishing frequency on high-authority domains",
+            "priority": "high",
+            "estimatedImpact": "+30-40% Perplexity visibility",
+            "actionItems": [
+                "Publish weekly thought leadership on Medium and LinkedIn",
+                "Secure guest posts on AI-focused publications",
+                "Ensure all content has proper citation metadata",
+                "Build relationships with AI news aggregators"
+            ]
+        },
+        {
+            "id": "bv-rec-3",
+            "title": "Create comparison-optimized content",
+            "description": "Develop content specifically designed to appear in AI-generated comparisons and 'best of' lists",
+            "priority": "medium",
+            "estimatedImpact": "+25% visibility in comparison queries",
+            "actionItems": [
+                "Create detailed comparison pages vs. competitors",
+                "Publish honest pros/cons analysis of your product",
+                "Develop feature comparison matrices",
+                "Optimize for 'vs' and 'alternative to' queries"
+            ]
+        }
+    ]
+}

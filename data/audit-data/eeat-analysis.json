@@ -1,0 +1,97 @@
+{
+    "moduleId": "eeat-analysis",
+    "moduleName": "E-E-A-T Analysis",
+    "description": "Evaluate Experience, Expertise, Authoritativeness, and Trust signals that influence AI model perception",
+    "score": 68.3,
+    "lastUpdated": "2024-12-20T10:30:00Z",
+    "insights": [
+        {
+            "id": "eeat-insight-1",
+            "title": "Strong expertise signals detected",
+            "description": "Your content demonstrates high technical expertise with 89% of articles containing industry-specific terminology and detailed explanations",
+            "impact": "high",
+            "category": "Expertise"
+        },
+        {
+            "id": "eeat-insight-2",
+            "title": "Limited author credibility markers",
+            "description": "Only 34% of content includes author bios, credentials, or experience indicators",
+            "impact": "high",
+            "category": "Experience"
+        },
+        {
+            "id": "eeat-insight-3",
+            "title": "Good domain authority",
+            "description": "Your domain has strong backlink profile from .edu and .gov sources, enhancing authoritativeness",
+            "impact": "medium",
+            "category": "Authoritativeness"
+        }
+    ],
+    "issues": [
+        {
+            "id": "eeat-issue-1",
+            "title": "Missing author attribution on 66% of content",
+            "description": "AI models heavily weight content with clear author attribution and credentials. Most of your content lacks this signal",
+            "severity": "critical",
+            "affectedArea": "Experience & Expertise"
+        },
+        {
+            "id": "eeat-issue-2",
+            "title": "Outdated content hurting trust signals",
+            "description": "23% of your top-performing pages haven't been updated in over 18 months, signaling potential staleness to AI models",
+            "severity": "high",
+            "affectedArea": "Trust"
+        },
+        {
+            "id": "eeat-issue-3",
+            "title": "Weak social proof integration",
+            "description": "Limited use of testimonials, case studies, and third-party validation in content",
+            "severity": "medium",
+            "affectedArea": "Trust & Authoritativeness"
+        }
+    ],
+    "recommendations": [
+        {
+            "id": "eeat-rec-1",
+            "title": "Implement comprehensive author attribution",
+            "description": "Add detailed author bios with credentials, experience, and social proof to all content",
+            "priority": "high",
+            "estimatedImpact": "+12-18 point E-E-A-T score increase",
+            "actionItems": [
+                "Create detailed author profile pages for all contributors",
+                "Add schema.org Person markup to author bios",
+                "Include author credentials and relevant experience",
+                "Link to author social profiles and publications",
+                "Display author expertise badges on articles"
+            ]
+        },
+        {
+            "id": "eeat-rec-2",
+            "title": "Establish content freshness protocol",
+            "description": "Implement quarterly content audits and updates to maintain trust signals",
+            "priority": "high",
+            "estimatedImpact": "+8-12 point Trust score increase",
+            "actionItems": [
+                "Audit all content older than 12 months",
+                "Add 'Last Updated' timestamps to all pages",
+                "Create content refresh schedule",
+                "Update statistics and examples with current data",
+                "Add editorial review dates to schema markup"
+            ]
+        },
+        {
+            "id": "eeat-rec-3",
+            "title": "Build authoritative citation network",
+            "description": "Increase citations from and to authoritative sources in your industry",
+            "priority": "medium",
+            "estimatedImpact": "+10-15% authoritativeness",
+            "actionItems": [
+                "Reference peer-reviewed research in content",
+                "Cite industry reports and whitepapers",
+                "Collaborate with recognized industry experts",
+                "Pursue speaking opportunities at industry events",
+                "Publish original research and data studies"
+            ]
+        }
+    ]
+}

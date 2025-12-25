@@ -1,0 +1,23 @@
+[
+    {
+        "id": "brand-1",
+        "name": "TechVision AI",
+        "domain": "techvision.ai",
+        "industry": "Artificial Intelligence",
+        "lastAuditDate": "2024-12-20T10:30:00Z"
+    },
+    {
+        "id": "brand-2",
+        "name": "GreenLeaf Organics",
+        "domain": "greenleaforganics.com",
+        "industry": "Sustainable Agriculture",
+        "lastAuditDate": "2024-12-18T14:15:00Z"
+    },
+    {
+        "id": "brand-3",
+        "name": "FinanceFlow Pro",
+        "domain": "financeflowpro.com",
+        "industry": "Financial Technology",
+        "lastAuditDate": "2024-12-22T09:00:00Z"
+    }
+]

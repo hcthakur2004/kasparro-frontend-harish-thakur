@@ -1,0 +1,53 @@
+{
+    "moduleId": "citation-analysis",
+    "moduleName": "Citation Analysis",
+    "description": "Monitor how and where your content is cited by AI models",
+    "score": 64.1,
+    "lastUpdated": "2024-12-20T10:30:00Z",
+    "insights": [
+        {
+            "id": "ca-1",
+            "title": "Growing citation frequency",
+            "description": "Citations increased 34% month-over-month",
+            "impact": "high",
+            "category": "Trend"
+        },
+        {
+            "id": "ca-2",
+            "title": "Strong technical documentation citations",
+            "description": "API docs cited in 82% of relevant technical queries",
+            "impact": "high",
+            "category": "Performance"
+        }
+    ],
+    "issues": [
+        {
+            "id": "ca-i1",
+            "title": "Missing citation metadata",
+            "description": "67% of content lacks proper citation schema",
+            "severity": "high",
+            "affectedArea": "Discoverability"
+        },
+        {
+            "id": "ca-i2",
+            "title": "Broken citation links",
+            "description": "14% of cited URLs return 404 errors",
+            "severity": "medium",
+            "affectedArea": "Trust"
+        }
+    ],
+    "recommendations": [
+        {
+            "id": "ca-r1",
+            "title": "Implement citation schema markup",
+            "description": "Add structured data to make content more citable",
+            "priority": "high",
+            "estimatedImpact": "+25% citation rate",
+            "actionItems": [
+                "Add schema.org/ScholarlyArticle markup",
+                "Implement DOI-style permanent URLs",
+                "Create citation widgets"
+            ]
+        }
+    ]
+}
