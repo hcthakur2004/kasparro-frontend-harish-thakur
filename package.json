@@ -1,17 +1,16 @@
 {
   "name": "kasparo-frontend",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "AI-native SEO platform dashboard - Frontend application built with Next.js 16 App Router",
+  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Harish Thakur",
+  "license": "MIT",
   "dependencies": {
     "@radix-ui/react-select": "^2.2.6",
     "@radix-ui/react-separator": "^1.1.8",
